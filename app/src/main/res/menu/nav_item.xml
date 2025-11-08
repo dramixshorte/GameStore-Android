@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:title="@string/home"
+        android:id="@+id/nev_home"
+        android:icon="@drawable/home_icon"
+        android:checkable="true"
+        />
+
+    <item
+        android:title="@string/rate_us"
+        android:id="@+id/nev_rate"
+        android:icon="@drawable/star_rate_icon"
+        android:checkable="true"
+        />
+
+    <item
+        android:title="@string/tell_your_friend"
+        android:id="@+id/nev_app_share"
+        android:icon="@drawable/baseline_share_24"
+        android:checkable="true"
+        />
+
+    <item
+        android:title="@string/app_update"
+        android:id="@+id/nev_app_update"
+        android:icon="@drawable/update_icon"
+        android:checkable="true"
+        />
+
+    <item
+        android:title="@string/privacy_policy"
+        android:id="@+id/nev_policy"
+        android:icon="@drawable/baseline_policy_24"
+        android:checkable="true"
+        />
+
+    <item
+        android:title="@string/app_version"
+        android:id="@+id/version"
+        android:icon="@drawable/baseline_android_24"
+        android:checkable="true"
+        />
+
+</menu>

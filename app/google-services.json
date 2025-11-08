@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "117705896752",
+    "project_id": "joooo-785b0",
+    "storage_bucket": "joooo-785b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117705896752:android:62559d0df97de1049ecef5",
+        "android_client_info": {
+          "package_name": "com.GamesComplex.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117705896752-i7vo1hus9mco2qbkqqskn8vavg52d615.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0P00FPqaYkIlrBzyG6zRC28uKFPXR78s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117705896752-i7vo1hus9mco2qbkqqskn8vavg52d615.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117705896752:android:49f6c203a22dfeec9ecef5",
+        "android_client_info": {
+          "package_name": "com.progomon.kidseducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117705896752-gfnn3qcb9rjjipvm9qhqlglglj5ros7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progomon.kidseducation",
+            "certificate_hash": "797da769f300bbefc013343b85575f46c1de76b4"
+          }
+        },
+        {
+          "client_id": "117705896752-i7vo1hus9mco2qbkqqskn8vavg52d615.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0P00FPqaYkIlrBzyG6zRC28uKFPXR78s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117705896752-i7vo1hus9mco2qbkqqskn8vavg52d615.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7709628672878056~1609194286"
+    }
+  ],
+  "configuration_version": "1"
+}

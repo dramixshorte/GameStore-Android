@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Happy Game</string><!--Paste Your App Name-->
+    <string name="app_version">Version 1.0.1</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="policy_url">https://www.google.com</string><!--Paste Your App Privacy Policy Link-->
+
+    <string name="ADMOB_APP_ID">ca-app-pub-4577108052213259~3797435008</string>
+    <string name="App_Open_Ads_ID">ca-app-pub-4577108052213259/9623362701</string>
+    <string name="ADMOB_INTERSTITIAL_UNIT_ID">ca-app-pub-4577108052213259/8896566400</string>
+    <string name="ADMOB_BANNER_UNIT_ID">ca-app-pub-4577108052213259/3448836598</string>
+
+    <string name="menu_descrition">menu_descrition</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_now">Play Now</string>
+    <string name="diamond_rush">Diamond Rush</string>
+    <string name="fruit_break">Fruit Break</string>
+    <string name="om_nom_run">Om Nom Run</string>
+    <string name="hot_games">Hot Games</string>
+    <string name="new_games">New Games</string>
+    <string name="bus_parking_3d">Bus Parking 3D</string>
+    <string name="motox_3m">MotoX 3M</string>
+    <string name="bubble_woods">Bubble Woods</string>
+    <string name="crazy_games">Crazy Games</string>
+    <string name="thug_racer">Thug Racer</string>
+    <string name="totemia_cursed">Totemia Cursed</string>
+    <string name="stack_smash">Stack Smash</string>
+    <string name="trending_games">Trending Games…</string>
+    <string name="action">Action</string>
+    <string name="sports">Sports</string>
+    <string name="puzzle">Puzzle</string>
+    <string name="racing">Racing</string>
+    <string name="adventure">Adventure</string>
+    <string name="categories">Categories</string>
+    <string name="education">Education</string>
+    <string name="arcade">Arcade</string>
+    <string name="more_item">more_item</string>
+    <string name="recommended">Recommended</string>
+    <string name="home">Home</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="app_update">App Update</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="oop">Oops!</string>
+    <string name="page_not_found">Games Not Found</string>
+    <string name="refresh">Refresh</string>
+    <string name="game_loading_text">Game Loading…</string>
+    <string name="todo">TODO</string>
+    <string name="tell_your_friend">Tell your friends</string>
+
+</resources>
